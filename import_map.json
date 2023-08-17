@@ -1,0 +1,7 @@
+{
+    "imports": {
+        "std/http/": "https://deno.land/std@0.192.0/http/",
+        "octokit": "https://esm.sh/octokit@3.1.0?dts",
+        "@octokit/webhooks-types": "https://esm.sh/@octokit/webhooks-types@7.2.0"
+    }
+}
